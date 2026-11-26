@@ -1,0 +1,30 @@
+{
+  "chart": {
+    "title": "Prevalence rate of diabetes in adults",
+    "subtitle": "Estimated share of people with diabetes among those aged over 18, based on general population surveys and statistical modeling. Diabetes is a risk factor for chronic complications, including cardiovascular disease, and premature death.",
+    "note": "To allow for comparisons between countries and over time, this metric is age-standardized.",
+    "citation": "World Health Organization – Global Health Observatory (2026)",
+    "originalChartUrl": "https://ourworldindata.org/grapher/diabetes-prevalence-who-gho?v=1&csvType=full&useColumnShortNames=false",
+    "selection": [
+      "World"
+    ]
+  },
+  "columns": {
+    "Raised fasting blood glucose (>=7.0 mmol/L) (age-standardized estimate) - Sex: both sexes - Age group: 18+  years of age": {
+      "titleShort": "Raised fasting blood glucose (>=7.0 mmol/L) (age-standardized estimate) - Sex: both sexes - Age group: 18+  years of age",
+      "titleLong": "Raised fasting blood glucose (>=7.0 mmol/L) (age-standardized estimate) - Sex: both sexes - Age group: 18+  years of age",
+      "unit": "",
+      "timespan": "1980-2014",
+      "type": "Numeric",
+      "owidVariableId": 1255790,
+      "shortName": "raised_fasting_blood_glucose__gt__7_0_mmol_l__age_standardized_estimate__sex_both_sexes__age_group_18plus__years_of_age",
+      "lastUpdated": "2026-05-22",
+      "nextUpdate": "2027-05-22",
+      "citationShort": "World Health Organization – Global Health Observatory (2026) – with minor processing by Our World in Data",
+      "citationLong": "World Health Organization – Global Health Observatory (2026) – with minor processing by Our World in Data. “Raised fasting blood glucose (>=7.0 mmol/L) (age-standardized estimate) - Sex: both sexes - Age group: 18+  years of age – WHO” [dataset]. World Health Organization, “Global Health Observatory” [original data].",
+      "fullMetadata": "https://api.ourworldindata.org/v1/indicators/1255790.metadata.json"
+    }
+  },
+  "dateDownloaded": "2026-11-26",
+  "activeFilters": {}
+}
